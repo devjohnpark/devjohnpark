@@ -1,13 +1,12 @@
 <div align='center'>
   
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=ff7f00&section=header&text=john park's%20github&fontColor=ffffff">
-
 <br>
 <br>
   
-  
-👋 Hi, I’m @john park
+👋 Hi, I’m john park
+<br/>
 👀 I’m interested in iOS programming and Computer Science 
+<br/>
 👨‍💻 2022.9월 ~ 2023.2월까지 열심히 했는데 혼자 작업하다 보니 커밋을 못했습니다...ㅋㅋ
 
   
@@ -19,7 +18,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/pyhon-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
-
   <a href="" target="_blank"><img src="https://img.shields.io/badge/realm-39477F?style=for-the-badge&logo=realm&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=FFFFFF"/></a> 
   </br>
