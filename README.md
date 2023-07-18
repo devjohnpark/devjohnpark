@@ -5,7 +5,7 @@
   
 👋 Hi, I’m john park
 <br/>
-👀 I’m interested in iOS programming and Computer Science 
+👀 I’m interested in Computer Science and iOS programming
 <br/>
 👨‍💻 2022.9월 ~ 2023.2월까지 열심히 했는데 혼자 작업하다 보니 커밋을 못했습니다...
 
