@@ -17,9 +17,7 @@
  <a href="" target="_blank"><img src="https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/realm-39477F?style=for-the-badge&logo=realm&logoColor=FFFFFF"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=FFFFFF"/></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/pyhon-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
+ 
  </br>
  
  <h3 align="center"><b>Tools</b></h3>
