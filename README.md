@@ -7,14 +7,14 @@
 <h3 align="center"><b> Skills </b></h3>
 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=FFFFFF"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/realm-39477F?style=for-the-badge&logo=realm&logoColor=FFFFFF"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>
  
  <br>
  
  <img src="https://img.shields.io/badge/typescirpt-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img alt="Nodejs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+
  
  <br>
  
@@ -23,6 +23,8 @@
  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
  
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/realm-39477F?style=for-the-badge&logo=realm&logoColor=FFFFFF"/></a>
 
  
  <br/>
