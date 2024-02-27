@@ -1,9 +1,8 @@
 <div align='center'>
   
 <br>
-<br>
   
-👋 Hi, I’m john park
+<!--👋 Hi, I’m john park-->
 <br/>
 
 
@@ -18,6 +17,21 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/realm-39477F?style=for-the-badge&logo=realm&logoColor=FFFFFF"/></a>
  
  </br>
+ 
+ <img src="https://img.shields.io/badge/typescirpt-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img alt="Nodejs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+ 
+ <br>
+ 
+ <h3 align="center"><b>SQL</b></h3>
+ 
+ <img alt="Nodejs" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+ 
+  <img alt="Nodejs" src=" https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+
+ 
+ <br/>
  
  <h3 align="center"><b>Tools</b></h3>
   
